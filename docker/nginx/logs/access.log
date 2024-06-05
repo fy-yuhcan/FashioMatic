@@ -1,0 +1,4 @@
+192.168.65.1 - - [05/Jun/2024:16:04:42 +0000] "GET / HTTP/1.1" 200 26606 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+192.168.65.1 - - [05/Jun/2024:16:06:29 +0000] "GET / HTTP/1.1" 500 1152126 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+192.168.65.1 - - [05/Jun/2024:16:15:14 +0000] "GET / HTTP/1.1" 200 26854 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+192.168.65.1 - - [05/Jun/2024:16:18:55 +0000] "GET / HTTP/1.1" 200 26831 "http://localhost/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
