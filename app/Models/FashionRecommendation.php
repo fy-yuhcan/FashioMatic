@@ -1,6 +1,5 @@
 <?php
 
-// app/Models/FashionRecommendation.php
 
 namespace App\Models;
 
